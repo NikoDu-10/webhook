@@ -9,6 +9,6 @@
     "author": "Nicolas Dussan",
     "dependencies": {
         "body-paser": "^1.15.0",
-        "expres": "^4.13.4"
+        "express": "^4.13.4"
     }
 }
